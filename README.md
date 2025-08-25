@@ -2,7 +2,7 @@
 
 Bem-vindos ao desafio prático do nosso webinar!
 
-Neste projeto, você terá a oportunidade de aplicar os conceitos de **Design Responsivo**, **Unidades Relativas** e **Media Queries** para construir um componente de interface de usuário real e funcional.
+Neste projeto, você terá a oportunidade de aplicar os conceitos de **Fonts Personalizadas**, **Design Responsivo**, **Unidades Relativas** e **Media Queries** para construir um componente de interface de usuário real e funcional.
 
 ---
 
@@ -52,6 +52,6 @@ Lembre-se da abordagem **desktop-first**. Os estilos que você criar fora da `me
 
 ### 🎉 **Vamos começar!**
 
-Clone ou baixe este repositório para a sua máquina e abra os arquivos no seu editor de código preferido.
+Clone ou baixe este repositório para a sua máquina e abra os arquivos no VSCode.
 
 Boa sorte e divirtam-se!

@@ -5,11 +5,10 @@
 }
 
 body {
-    font-family: sans-serif;
+    font-family: sans-serif; /* TROCAR PELA FONT CUSTOMIZADA */
     line-height: 1.6;
     background-color: #f0f2f5;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
 }
